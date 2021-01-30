@@ -1,7 +1,7 @@
 
 body {
     margin: 0;
-    background-color: #1a1c20;
+    background-color: #2a2c31;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: #f4f4f4;
@@ -37,7 +37,7 @@ a {
 }
 
 a:hover {
-    color: #1a1c20;
+    color:  #2a2c31;
 }
 
 .top-container {
@@ -68,14 +68,14 @@ a:hover {
 
 .btn {
     background-color: #f0a500;
-    color:  #1a1c20;
+    color:   #2a2c31;
     transition-duration: 0.4s;
     border: 4px solid #f0a500;
     font-family: 'Abel', sans-serif;
 }
 
 .btn:hover {
-    background-color: #1a1c20;
+    background-color:  #2a2c31;
     color: #f0a500;
     border-color: #f0a500;
 }
